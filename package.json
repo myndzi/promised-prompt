@@ -9,8 +9,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "bluebird": "~0.11.6-0",
-    "jquery-extend": "~2.0.3",
-    "chalk": "~0.4.0"
+    "chalk": "~0.4.0",
+    "blackbird": "git+https://github.com/myndzi/blackbird.git"
   }
 }
