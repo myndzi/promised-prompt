@@ -11,7 +11,8 @@
   "dependencies": {
     "chalk": "~0.4.0",
     "blackbird": "git+https://github.com/myndzi/blackbird.git",
-    "read": "~1.0.5"
+    "read": "~1.0.5",
+    "xtend": "~2.1.2"
   },
   "readme": "ERROR: No README data found!",
   "_id": "promised-prompt@0.0.0",
