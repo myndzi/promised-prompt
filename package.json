@@ -10,6 +10,14 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "chalk": "~0.4.0",
-    "blackbird": "git+https://github.com/myndzi/blackbird.git"
-  }
+    "blackbird": "git+https://github.com/myndzi/blackbird.git",
+    "read": "~1.0.5"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "promised-prompt@0.0.0",
+  "dist": {
+    "shasum": "7d39dbbbc57b759664c7f7a6bcd856e772b003cb"
+  },
+  "_resolved": "git+https://github.com/myndzi/promised-prompt.git#c520930ecca970831e006f97fadadb50a8332eb6",
+  "_from": "promised-prompt@git+https://github.com/myndzi/promised-prompt.git"
 }
